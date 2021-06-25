@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="hint_search">Search city</string>
+    <string name="text_title_weather">Weather :</string>
+    <string name="text_weather">Clouds</string>
+    <string name="text_space">-</string>
+    <string name="text_weather_dsc">few clouds</string>
+    <string name="text_title_temp">Temperature</string>
+    <string name="text_temp">No Data</string>
+    <string name="text_temp_unit">°C</string>
+    <string name="text_title_humidity">Humidity</string>
+    <string name="text_humidity">43</string>
+    <string name="text_title_visibility">Visibility</string>
+    <string name="text_visibility">1000</string>
+    <string name="text_title_wind">Wind</string>
+    <string name="text_wind">2.06</string>
+    <string name="text_colon">:</string>
+    <string name="text_city">London</string>
+</resources>
